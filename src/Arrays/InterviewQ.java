@@ -22,6 +22,8 @@ public class InterviewQ {
     		 }
     		 if(k==1) {
     			 System.out.println(a[i]+ "  is a unique number");
+                         System.out.println("  is a unique number");
+                         System.out.println("  is a unique number");
     		 }
     		     	 }
     	
